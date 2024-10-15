@@ -1,4 +1,4 @@
-## Air Quality Forecast: Machine Learning Model
+# Air Quality Forecast: Machine Learning Model
 Air quality has a significant impact on human health and the environment. The main factors affecting air quality in India are:
 
 PM2.5 and PM10: Particulate matter
@@ -21,7 +21,7 @@ The primary goal of our air quality prediction model is to accurately forecast t
 Our model predicts future AQI values based on the levels of various pollutants that affect air quality. These predictions assist decision-makers in issuing health alerts, formulating environmental policies, optimizing traffic and industrial management, and helping the general public plan their daily activities.
 
 
-# What is the business problem you are trying to solve using machine learning?
+#### What is the business problem you are trying to solve using machine learning?
 
 The problem you are trying to solve in this project is to predict future Air Quality Index (AQI) values by analyzing the factors affecting AQI using machine learning algorithms. These predictions can be used to monitor air quality and develop improvement strategies. The goal is to identify the impact of various pollutant parameters (PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, Xylene) on AQI and to forecast AQI based on the future values of these parameters.
 
