@@ -29,7 +29,7 @@ The problem you are trying to solve in this project is to predict future Air Qua
 
 Solving this problem is of great importance for public health, environmental sustainability, and the protection of biodiversity. Accurately predicting air quality allows authorities and the public to take measures against air pollution. For example, health alerts and precautions can be issued. Regulations and policies related to air pollution can be developed. Industrial and traffic management can be optimized. By providing a cleaner environment to society, the quality of life can be improved.
 
-## What are some known issues with the data? (data entry errors, missing data, unit differences, etc.)
+### What are some known issues with the data? (data entry errors, missing data, unit differences, etc.)
 
 Missing Data: Several columns, including the target column, have missing values.
 Unit Differences: The Date column initially had a data type of object and has been converted to Datetime.
