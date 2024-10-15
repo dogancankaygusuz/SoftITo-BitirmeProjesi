@@ -1,4 +1,4 @@
-Air Quality Forecast: Machine Learning Model
+#Air Quality Forecast: Machine Learning Model
 Air quality has a significant impact on human health and the environment. The main factors affecting air quality in India are:
 
 PM2.5 and PM10: Particulate matter
